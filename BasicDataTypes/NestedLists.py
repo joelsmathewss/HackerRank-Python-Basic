@@ -1,11 +1,3 @@
-"""
-Title     : Nested Lists
-Subdomain : Data Types
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 06 July 2020
-Problem   : https://www.hackerrank.com/challenges/nested-list/problem
-"""
 if __name__ == "__main__":
     students = []
     scores = []
