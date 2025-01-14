@@ -1,14 +1,3 @@
-"""
-Title     : Lists
-Subdomain : Data Types
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 06 July 2020
-Updated   : 06 February 2023
-Problem   : https://www.hackerrank.com/challenges/python-lists/problem
-"""
-
-
 if __name__ == "__main__":
     N = int(input())
     ar = []
